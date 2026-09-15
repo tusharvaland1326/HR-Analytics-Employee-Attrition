@@ -673,8 +673,10 @@ git clone https://github.com/YOUR-USERNAME/HR-Analytics-Employee-Attrition.git
 
 2️⃣ Navigate to the Project
 cd HR-Analytics-Employee-Attrition
+
 3️⃣ Install Required Python Libraries
 pip install pandas numpy matplotlib jupyter
+
 4️⃣ Open the Jupyter Notebook
 jupyter notebook
 
@@ -751,6 +753,7 @@ Employees Who Left
 Attrition Rate
 Average Age
 Average Monthly Income
+
 📊 Employee Analysis
 Employee attrition by department
 Employee attrition by gender
@@ -760,6 +763,7 @@ Age distribution
 Average monthly income by job role
 Work-life balance analysis
 Education field analysis
+
 🎛️ Interactive Filters
 
 The dashboard allows users to filter the analysis by:
@@ -787,6 +791,8 @@ Highest Job Role Attrition	Sales Representative – 39.76%
 Overtime Attrition	30.53%
 Non-Overtime Attrition	10.44%
 Highest Age Group Attrition	18–25 – 35.77%
+
+
 🎯 Project Outcome
 
 This project demonstrates an end-to-end business analytics workflow:
@@ -802,7 +808,10 @@ Employee engagement
 Compensation analysis
 Workload management
 Business intelligence reporting
+
+
 🏆 Skills Demonstrated
+
 💻 Technical Skills
 Python
 Pandas
@@ -817,6 +826,8 @@ Git
 GitHub
 Markdown
 Jupyter Notebook
+
+
 📊 Data Analytics Skills
 Data Cleaning
 Data Preparation
@@ -831,6 +842,8 @@ Workforce Analytics
 Business Intelligence
 Data Storytelling
 Business Recommendations
+
+
 💼 Business Skills Demonstrated
 
 This project demonstrates the ability to:
@@ -843,6 +856,9 @@ Develop interactive business dashboards.
 Communicate analytical findings clearly.
 Convert analytical results into actionable recommendations.
 Support data-driven HR decision-making.
+
+
+
 🚀 Future Improvements
 
 Future versions of this project could include:
@@ -857,6 +873,9 @@ Employee retention prediction.
 Advanced statistical analysis.
 Integration with larger HR datasets.
 Automated dashboard data refresh.
+
+
+
 👤 Author
 Tushar Valand
 
@@ -864,13 +883,17 @@ Data Analyst | Business Analytics | Business Intelligence
 
 I am interested in using data analytics, business intelligence, SQL, Python, and visualization technologies to solve real-world business problems and support data-driven decision-making.
 
+
+
 🛠️ Tools & Technologies
+
 🐍 Programming & Data Analysis
 Python
 Pandas
 NumPy
 Matplotlib
 Jupyter Notebook
+
 🗄️ Database & SQL
 PostgreSQL
 pgAdmin 4
@@ -880,6 +903,7 @@ GROUP BY
 CASE Statements
 Subqueries
 Window Functions
+
 📊 Business Intelligence
 Microsoft Power BI
 DAX
@@ -887,10 +911,12 @@ KPI Development
 Interactive Dashboards
 Data Visualization
 Dashboard Design
+
 📁 Version Control & Documentation
 Git
 GitHub
 Markdown
+
 📈 Analytics Skills
 Data Cleaning
 Data Preparation
@@ -983,31 +1009,38 @@ Monitor overtime patterns across departments.
 Review workloads and staffing levels.
 Identify teams consistently working excessive hours.
 Encourage healthier working schedules.
-2. Focus on High-Risk Job Roles
+
+3. Focus on High-Risk Job Roles
 Investigate the reasons for high turnover among Sales Representatives.
 Improve career progression opportunities.
 Introduce role-specific engagement initiatives.
 Conduct regular employee feedback surveys.
-3. Support Early-Career Employees
+
+5. Support Early-Career Employees
 Develop mentoring programs.
 Provide structured career development plans.
 Offer additional training opportunities.
 Improve onboarding and early employee engagement.
-4. Review Compensation
+
+7. Review Compensation
 Review compensation for lower-paid employee groups.
 Evaluate salary competitiveness.
 Consider performance-based rewards.
 Provide clear salary progression opportunities.
-5. Improve Employee Satisfaction
+
+9. Improve Employee Satisfaction
 Conduct regular employee satisfaction surveys.
 Identify departments with lower satisfaction scores.
 Strengthen communication between employees and managers.
 Develop employee engagement initiatives.
-6. Improve Work-Life Balance
+
+11. Improve Work-Life Balance
 Monitor workload and working hours.
 Encourage flexible working arrangements where possible.
 Introduce employee wellbeing initiatives.
 Investigate teams with consistently poor work-life balance.
+
+
 ⚠️ Project Limitations
 
 Although the analysis provides useful insights, several limitations should be considered:
@@ -1017,6 +1050,8 @@ The analysis identifies associations but does not establish direct causation.
 Employee attrition can be influenced by factors that are not included in the dataset.
 Historical employee data may not reflect current workforce conditions.
 Further statistical and predictive analysis could provide deeper insights.
+
+
 📚 Learning Outcomes
 
 Through this project, I developed practical experience in:
@@ -1032,6 +1067,8 @@ Identifying workforce trends.
 Communicating data-driven insights.
 Developing business recommendations.
 Presenting analytics projects professionally using GitHub.
+
+
 ⭐ If You Find This Project Useful
 
 If you find this project useful or interesting, feel free to:
@@ -1041,6 +1078,9 @@ If you find this project useful or interesting, feel free to:
 💬 Share feedback
 🤝 Connect with me on LinkedIn
 📂 Explore my other analytics projects
+
+
+
 👋 Thank You
 
 Thank you for taking the time to explore this project.
