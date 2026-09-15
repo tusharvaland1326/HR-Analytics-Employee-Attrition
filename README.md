@@ -928,10 +928,16 @@ KPI Development
 Data Storytelling
 Business Intelligence
 Business Recommendations
+
 📫 Contact
+
 GitHub: https://github.com/YOUR-USERNAME
+
 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/
+
 Email: YOUR-EMAIL@example.com
+
+
 📜 License
 
 This project is intended for educational, portfolio, and demonstration purposes.
